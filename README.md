@@ -1,6 +1,6 @@
 # JobCluster: Unsupervised Clustering of Job Descriptions
 
-**Description:**  
+
 This project explores the use of unsupervised machine learning to uncover hidden structure in job descriptions. Using TF-IDF vectorization and dimensionality reduction with TruncatedSVD, we apply KMeans and Agglomerative Clustering to group job postings by textual similarity.
 
 Through hyperparameter tuning and evaluation with silhouette scores, we found that Agglomerative Clustering with average linkage and SVD-reduced features achieved the best performance, revealing more meaningful job clusters. The goal is to assist in organizing and analyzing large sets of job data for workforce planning, job categorization, or exploratory analysis.
