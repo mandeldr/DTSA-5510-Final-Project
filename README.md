@@ -47,6 +47,10 @@ Before setting up the project:
   ```bash
   jupyter notebook
   ```
+- **Download the data**
+- Download from here: on [Kaggle](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
+- ```mkdir linkedin-data```
+- Place the job-postings.csv file into it
 
 ---
 
